@@ -770,6 +770,9 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script>
+    alert("Hello Word!")
+  </script>
 
 </body>
 
