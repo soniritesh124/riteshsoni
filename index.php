@@ -196,9 +196,9 @@
             </div>
 
             <div class="progress">
-              <span class="skill">blockchain<i class="val">25%</i></span>
+              <span class="skill">Augmented Reality<i class="val">50%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -283,7 +283,7 @@
             <div class="resume-item">
               <h4>Artificial Intelligence</h4>
               <h5> 23rd  Dec 2019  to 30th March 2020</h5>
-              <p><em>SenseQue Technologies Pvt. Ltd , Ahmedabad, Gujrat </em></p>
+<!--               <p><em>SenseQue Technologies Pvt. Ltd , Ahmedabad, Gujrat </em></p> -->
               <ul>
                 <li>Initially I understood what is Artificial Intelligence and it's different parts and working areas.</li>
                 <li>After that, I have gone through the Machine Learning stuffs and able to create any type of model based on that.</li>
@@ -324,6 +324,7 @@
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-IoT">IOT</li>
               <li data-filter=".filter-AI">AI</li>
+              <li data-filter=".filter-IoTAR">IoTAR</li>
             </ul>
           </div>
         </div>
