@@ -344,6 +344,22 @@
               </div>
             </div>
           </div>
+           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-IoTAR">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/IoTAR1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>IoTAR 1</h4>
+                <p>Smart Parking System</p>
+                <div class="portfolio-links">
+<!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
+                  <a href="portfolio-details_IoTAR1.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
 
           
 
@@ -370,6 +386,20 @@
                 <div class="portfolio-links">
 <!--                   <a href="assets/img/portfolio/IoT3.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 3"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT3.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+             
+             <div class="col-lg-4 col-md-6 portfolio-item filter-IoTAR">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/IoTAR2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>IoTAR 1</h4>
+                <p>Smart Parking System</p>
+                <div class="portfolio-links">
+<!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
+                  <a href="portfolio-details_IoTAR2.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -454,6 +484,20 @@
                 <div class="portfolio-links">
 <!--                   <a href="assets/img/portfolio/AI1.jpg" data-gall="portfolioGallery" class="venobox" title="AI 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_AI1.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+             
+             <div class="col-lg-4 col-md-6 portfolio-item filter-IoTAR">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/IoTAR3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>IoTAR 1</h4>
+                <p>Smart Parking System</p>
+                <div class="portfolio-links">
+<!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
+                  <a href="portfolio-details_IoTAR3.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
