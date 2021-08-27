@@ -338,7 +338,7 @@
                 <h4>IOT 1</h4>
                 <p>Smart Parking System</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT1.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -354,7 +354,7 @@
                 <h4>IOT 2</h4>
                 <p>Smart Dustbin</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT2.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 2"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT2.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 2"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT2.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -368,7 +368,7 @@
                 <h4>IOT 3</h4>
                 <p>Smart Home(with mobile app)</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT3.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 3"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT3.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 3"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT3.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -382,7 +382,7 @@
                 <h4>IOT 4</h4>
                 <p>Google Assistant Smart Home</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT4.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 4"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT4.jpg" data-gall="portfolioGallery" class="venobox" title="IOT 4"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT4.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -396,7 +396,7 @@
                 <h4>IOT 5</h4>
                 <p>Smart Board</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IOT5.png" data-gall="portfolioGallery" class="venobox" title="IoT 5"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IOT5.png" data-gall="portfolioGallery" class="venobox" title="IoT 5"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT5.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -410,7 +410,7 @@
                 <h4>IOT 6</h4>
                 <p>Arduino Music</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT6.png" data-gall="portfolioGallery" class="venobox" title="IoT 6"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT6.png" data-gall="portfolioGallery" class="venobox" title="IoT 6"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT6.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -424,7 +424,7 @@
                 <h4>IOT 7</h4>
                 <p>Don't touch face at Corona time</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT7.png" data-gall="portfolioGallery" class="venobox" title="IoT 7"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT7.png" data-gall="portfolioGallery" class="venobox" title="IoT 7"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT7.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -438,7 +438,7 @@
                 <h4>IOT 8</h4>
                 <p>RGB LED</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IoT8.png" data-gall="portfolioGallery" class="venobox" title="IoT 8"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/IoT8.png" data-gall="portfolioGallery" class="venobox" title="IoT 8"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IOT8.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -452,7 +452,7 @@
                 <h4>AI 1</h4>
                 <p>Face Mask Recognition</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/AI1.jpg" data-gall="portfolioGallery" class="venobox" title="AI 1"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/AI1.jpg" data-gall="portfolioGallery" class="venobox" title="AI 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_AI1.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -466,7 +466,7 @@
                 <h4>AI 2</h4>
                 <p>Self-Driving Car Lane Detection</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/AI2.jpg" data-gall="portfolioGallery" class="venobox" title="AI 2"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/AI2.jpg" data-gall="portfolioGallery" class="venobox" title="AI 2"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_AI2.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -480,7 +480,7 @@
                 <h4>AI 3</h4>
                 <p>Drowsy Driver Detection</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/AI3.png" data-gall="portfolioGallery" class="venobox" title="AI 3"><i class="bx bx-plus"></i></a>
+<!--                   <a href="assets/img/portfolio/AI3.png" data-gall="portfolioGallery" class="venobox" title="AI 3"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_AI3.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
