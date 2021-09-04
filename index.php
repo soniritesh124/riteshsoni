@@ -351,7 +351,7 @@
               <img src="assets/img/portfolio/IoTAR1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>IoTAR 1</h4>
-                <p>Smart Parking System</p>
+                <p>IoT and AR based Home Automation project</p>
                 <div class="portfolio-links">
 <!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IoTAR1.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
@@ -395,8 +395,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/IoTAR2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>IoTAR 1</h4>
-                <p>Smart Parking System</p>
+                <h4>IoTAR 2</h4>
+                <p>IoT and make our own AR based Home Automation project(Virtual Buttons)</p>
                 <div class="portfolio-links">
 <!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IoTAR2.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
@@ -493,8 +493,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/IoTAR3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>IoTAR 1</h4>
-                <p>Smart Parking System</p>
+                <h4>IoTAR 3</h4>
+                <p>AR and IoT Sensor Data</p>
                 <div class="portfolio-links">
 <!--                   <a href="assets/img/portfolio/IoT1.png" data-gall="portfolioGallery" class="venobox" title="IOT 1"><i class="bx bx-plus"></i></a> -->
                   <a href="portfolio-details_IoTAR3.php" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Projects Details"><i class="bx bx-link"></i></a>
