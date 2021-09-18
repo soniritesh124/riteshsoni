@@ -274,19 +274,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
 /*   color: #45505b; */
-  color:  #FFFFFF;
+  color:  #030303;
 }
 
 #hero p {
 /*   color: #45505b; */
-  color: #FFFFFF;
+  color: #030303;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
-#hero p span {
-  color: #0563bb;
+#hero p span {#017d20
+  color: #017d20;
   letter-spacing: 1px;
 }
 
@@ -298,14 +298,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   display: inline-block;
 /*   color: #45505b; */
-  color: #FFFFFF;
+  color: #030303;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color: #0563bb;
+  color: #017d20;
 }
 
 @media (max-width: 992px) {
