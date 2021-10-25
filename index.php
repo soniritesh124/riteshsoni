@@ -264,7 +264,7 @@
               </ul>
             </div>
 
-            <h3 class="resume-title">Education</h3>
+<!--             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
               <h4>HSC(Science)</h4>
               <h5>2014 - 2015</h5>
@@ -276,7 +276,7 @@
               <h5>2015 - 2020</h5>
               <p><em>Ahmedabad Institute Of Technology, Ahmedabad, Gujrat</em></p>
               <p>Field Of Interests:-<br> C programming, C++, Java, Microprocessing & Interfacing, Web Designing, HTML/CSS, Artificial Intelligence, Internet Of Things, Quantum Computing, Mathematics, Php, WordPress, .Net, Animations, Game Designing, Logo Design, Digital Marketing, Search Engine Optimization, E-Commerce, Data/Cyber Security.</p>
-            </div>
+            </div> -->
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
