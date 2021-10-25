@@ -634,7 +634,7 @@
     <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+<!--         <div class="section-title">
           <h2>Testimonials</h2>
         </div>
 
@@ -660,7 +660,7 @@
                he was working as a Inter(Artificial Intelligence ). During the period of his internship programme with us he was found punctual, hardworking and inquisitive. 
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-          </div>
+          </div> -->
 
           <!-- <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
