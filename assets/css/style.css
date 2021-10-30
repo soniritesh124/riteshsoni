@@ -281,7 +281,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero p {
 /*   color: #45505b; */
+  background: #0563bb;
   color: #fff;
+  position: absolute;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -300,7 +302,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   display: inline-block;
 /*   color: #45505b; */
+  background: #0563bb;
   color: #fff;
+  position: absolute;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
