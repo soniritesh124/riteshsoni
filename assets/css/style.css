@@ -276,12 +276,14 @@ h1, h2, h3, h4, h5, h6 {
 /*   color: #45505b; */
   background: #0563bb;
   color: #fff;
+  display:inline;
 }
 
 #hero p {
 /*   color: #45505b; */
   background: #0563bb;
   color: #fff;
+  display:inline;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
