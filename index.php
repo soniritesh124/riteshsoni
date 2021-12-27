@@ -77,10 +77,10 @@
           <p>Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.</p>
         </div>
 
-        <div class="row">
+<!--         <div class="row">
           <div class="col-lg-4">
             <img src="assets/img/portfolio/profile.jpg" class="img-fluid" alt="">
-          </div>
+          </div> -->
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Internet of Things &amp; Freelancer &amp; Entrepreneur.</h3>
             <p class="font-italic">
